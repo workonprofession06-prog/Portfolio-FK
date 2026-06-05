@@ -1,92 +1,127 @@
 # Personal Portfolio Website
 
-A simple and responsive personal portfolio website built using HTML and CSS.
+## Overview
 
-## About the Project
+This is my personal portfolio website built using **HTML, CSS, and JavaScript**. It showcases my skills, projects, services, and contact information in a modern and responsive design.
 
-This portfolio website was created to showcase my profile as a Web Developer. It includes a navigation menu, social media links, introduction section, personal branding, and a modern split-screen design.
-
-The website is designed with a clean user interface and highlights my passion for web development.
+The portfolio was created to present my work as a Web Developer and provide an easy way for recruiters, clients, and collaborators to learn more about me.
 
 ## Features
 
-* Responsive portfolio layout
+* Responsive and modern UI design
 * Fixed navigation bar
-* Social media icons using Font Awesome
-* Personal introduction section
-* Call-to-action buttons
-* Custom CSS styling
-* Profile image with circular design effect
-* Hover animations and transitions
+* Active navigation link highlighting while scrolling
+* Mobile-friendly hamburger menu
+* Animated statistics counters
+* Smooth scrolling navigation
+* Scroll reveal animations
+* Contact form with success message
+* Social media links
+* Project showcase section
+* Services section
+* About Me section
+* Back-to-top button
+
 
 ## Technologies Used
 
+### Frontend
+
 * HTML5
 * CSS3
+* JavaScript (Vanilla JS)
+
+### Libraries & Tools
+
 * Font Awesome Icons
+
+---
 
 ## Project Structure
 
-```text
-Portfolio/
+```
+portfolio/
 │
 ├── index.html
 ├── style.css
-├── faika pro image.jpg
+├── script.js
+├── assets/
+│   └── images
 └── README.md
 ```
 
-## Sections
+## JavaScript Functionalities
 
-### Home
+### Navbar Scroll Effect
 
-Displays the main introduction and profession.
+* Changes navbar appearance on scroll.
+* Displays the Back-to-Top button.
 
-### About
+### Active Navigation Highlight
 
-Placeholder section for personal information.
+* Automatically highlights the current section in the navigation menu.
 
-### Projects
+### Mobile Menu
 
-Showcases development projects.
+* Hamburger menu for smaller screens.
+* Automatically closes after selecting a navigation link.
 
-### Services
+### Animated Counters
 
-Highlights services offered.
+* Statistics animate when the About section becomes visible.
 
-### Contact
+### Contact Form
 
-Allows visitors to connect with me.
+* Displays a success message after form submission.
+* Automatically resets the form.
 
-## How to Run
+### Smooth Scrolling
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click `index.html` or open it in a web browser.
+* Provides smooth navigation between sections.
 
-No installation or additional dependencies are required.
+### Scroll Reveal Animation
+
+* Elements fade in and slide up when they enter the viewport.
+
+
+## Skills Highlighted
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
+* Frontend Development
+* UI/UX Design Principles
+
 
 ## Future Improvements
 
-* Add responsive design for mobile devices
-* Add project showcase section
-* Add contact form functionality
-* Add dark/light mode
-* Add animations and smooth scrolling
-* Connect social media profiles
+* Add project filtering
+* Dark/Light mode toggle
+* Backend contact form integration
+* Project detail pages
+* Blog section
+* Downloadable resume feature
+
 
 ## Author
 
 **Faika Khan**
+Web Developer
 
-* Web Developer
-* Python & Django Enthusiast
+GitHub: https://github.com/workonprofession06-prog
+
+LinkedIn: https://www.linkedin.com/in/faika-khan-4b467538b/
+
 
 ## License
 
-This project is open-source and available for learning and personal use.
+This project is open-source and available for educational and personal portfolio purposes.
 
 **Result: **
 
 <img width="1915" height="826" alt="image" src="https://github.com/user-attachments/assets/872afac1-cf33-4239-838f-b4102b4e1ce2" />
+
+<img width="1920" height="5518" alt="image" src="https://github.com/user-attachments/assets/1ebec8de-986a-4ae1-86ef-1d8951a4d275" />
+
 
