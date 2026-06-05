@@ -86,6 +86,7 @@ No installation or additional dependencies are required.
 
 This project is open-source and available for learning and personal use.
 
-Final Ouptuts result: 
+**Result: **
+
 <img width="1915" height="826" alt="image" src="https://github.com/user-attachments/assets/872afac1-cf33-4239-838f-b4102b4e1ce2" />
 
