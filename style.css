@@ -251,7 +251,7 @@ body {
 
 .btn-primary:hover {
     background: transparent;
-    color: var(--white);
+    color:rgba(174, 63, 115, 0.96);
     box-shadow: 0 0 15px rgba(174,63,115,.5);
 }
 
